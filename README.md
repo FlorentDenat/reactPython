@@ -4,7 +4,7 @@ Auteur : Florent DENAT
 
 ## API Rest
 
-Les fonctions demandés se trouvent dans les fichiers main.py et crud.py, et sont commentés par des balises :
+Les fonctions demandées se trouvent dans les fichiers main.py et crud.py, et sont commentées par des balises :
 
 ```python
 # ----------------- FONCTION EXERCICE FLORENT DENAT --------------
